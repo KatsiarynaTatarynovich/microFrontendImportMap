@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@report-portal/application-one": "https://micro-frontend-application-one-6f97ckj48-katsiarynatatarynovich.vercel.app/report-portal-application-one.js",
+    "@qa-space/application-two": "https://micro-frontend-application-two-j7snhgqjo-katsiarynatatarynovich.vercel.app/qa-space-application-two.js"
+  }
+}
